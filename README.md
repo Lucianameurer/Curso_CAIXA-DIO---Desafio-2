@@ -57,14 +57,10 @@ Leonardo.ai：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via Leonardo AI
 
-## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+## 🛠️ Execução
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts acima na ferramenta ChatGPT que foi sugerida, porem como o Midjouney (que foi sugerido para gerar imagens) não esta disponivel gratuitamente, utilizei a ferramenta Leonardo.AI para gerar o material base e utilize a ferramenta de edição de documentos power point para diagramação.
 
 ## 👨‍💻 Expert
 
